@@ -19,6 +19,6 @@ spec:
     spec:
       containers:
       - name: hello-world-container
-        image: [dockerhub계정]/java-hello-world
+        image: saria2020/java-hello-world
         ports:
         - containerPort: 8080
